@@ -1,6 +1,6 @@
 module.exports = {
   // Automatische Reproduktion der Creeps
   run () {
-    console.log("test");
+    // console.log("test");
   }
 };
